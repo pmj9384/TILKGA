@@ -1,0 +1,11 @@
+#pragma once
+#include <iostream>
+#include <string>
+#include <list>
+#include <algorithm>
+#include <map>
+#include <SFML/Graphics.hpp>
+#include "InputMgr.h"
+#include "ResourceMgr.h"
+#include "Framework.h"
+#include "GameObject.h"
